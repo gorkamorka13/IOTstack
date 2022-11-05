@@ -2,7 +2,7 @@
 
 IOTstack is a builder for docker-compose to easily make and maintain IoT stacks on the Raspberry Pi.
 
-## introduction to IOTstack - videos
+## introduction to IOTstack - videosx
 
 These are from 2019 and 2020. Though IOTstack has changed quite a bit, they are
 still a great overview
